@@ -48,44 +48,6 @@ This is a **daily progress tracker** for practicing frontend machine coding roun
 | YYYY-MM-DD | Example: "Implemented Modal Component" |
 
 ---
-
-## ✅ Full Question List (With Checkboxes)
-### **UI Components**
-- [ ] Create a **Button Component** with variants (primary, secondary, disabled)
-- [ ] Implement a **Checkbox & Radio Button Component**
-- [ ] Build a **Toggle Switch** (on/off state management)
-- [ ] Develop a **Star Rating Component**
-- [ ] Implement a **Snackbar/Toast Notification System**
-- [ ] Build a **Progress Bar with dynamic updates**
-
-### **State Management & Logic**
-- [ ] Implement a **Counter with Increment & Decrement**
-- [ ] Build a **Custom Hook for Form Validation**
-- [ ] Create a **Global State Management Example** (Context API, Redux, Zustand)
-- [ ] Implement a **Theme Switcher (Light/Dark Mode)**
-
-### **API & Data Handling**
-- [ ] Fetch data from an API and display it in a **Table with Pagination**
-- [ ] Implement **Lazy Loading Images** to improve performance
-- [ ] Build a **Weather App using an API**
-- [ ] Create an **Authentication Flow (Login, Logout, Protected Routes)**
-
-### **Performance Optimizations**
-- [ ] Optimize a list rendering using **React.memo & useCallback**
-- [ ] Implement **Infinite Scroll with Virtualized Lists**
-- [ ] Create an **Efficient Search Bar using Debounce**
-
-### **Advanced UI Implementations**
-- [ ] Build a **Drag & Drop File Uploader**
-- [ ] Implement a **Google Maps Location Picker**
-- [ ] Create a **Multi-Step Form with Navigation**
-
----
-
-### 🚀 How to Use This Repo
-1. Clone this repository
-2. Update the checklist as you complete problems
-3. Log your daily progress in the table above
 4. Push updates to track your journey!
 
 💪 Keep grinding! You'll crack that frontend interview! 🔥
