@@ -25,8 +25,8 @@ This is a **daily progress tracker** for practicing frontend machine coding roun
 ---
 
 ## 🔥 API Handling & Performance Optimization
-- [ ] **Debounced Search with API Calls** (efficient network requests)
-- [ ] **Rate Limiter / Throttling Requests to API**
+- [x] **Debounced Search with API Calls** (efficient network requests)
+- [x] **Rate Limiter / Throttling Requests to API**
 - [ ] **CRUD Operations (Create, Read, Update, Delete) UI**
 - [ ] **Fetching & Displaying Data from an API (React Query, SWR)**
 - [ ] **Caching API Responses for Performance Optimization**
