@@ -7,7 +7,7 @@ This is a **daily progress tracker** for practicing frontend machine coding roun
 ## 📌 UI Component-Based Questions
 - [ ] **Autocomplete Search Box** (with API debounce)
 - [x] **Multi-level Dropdown Menu** (collapsible nested menu)
-- [ ] **Infinite Scroll / Virtualized List** (fetch paginated data)
+- [x] **Infinite Scroll / Virtualized List** (fetch paginated data)
 - [ ] **File Upload Component** (with drag & drop & preview)
 - [ ] **Modal/Dialog with Backdrop Click Handling**
 - [ ] **Tooltip on Hover with Positioning Logic**
